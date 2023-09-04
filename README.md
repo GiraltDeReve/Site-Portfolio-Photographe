@@ -1,6 +1,6 @@
 # Site-Portfolio-Photographe
 
-Bienvenue dans le projet fictif de création d'une application de menu pour restaurateurs réalisé dans le cadre de de ma formation de Développeuse Web sur OpenClassrooms.
+Bienvenue dans le projet fictif de planification du développement d'une application de menu pour restaurateurs réalisé dans le cadre de de ma formation de Développeuse Web sur OpenClassrooms.
 Ce projet a été validé en soutenance sans correction majeure et a permis de valider les compétences liées à la gestion de projet, aux méthodes agiles et à l'automatisation d'une veille technique.
 
 ## Aperçu
