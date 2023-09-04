@@ -1,43 +1,31 @@
 # Site-Portfolio-Photographe
 
-Bienvenue dans le projet fictif de planification du développement d'une application de menu pour restaurateurs réalisé dans le cadre de de ma formation de Développeuse Web sur OpenClassrooms.
-Ce projet a été validé en soutenance sans correction majeure et a permis de valider les compétences liées à la gestion de projet, aux méthodes agiles et à l'automatisation d'une veille technique.
+Bienvenue dans le projet fictif de débogage, d'optimisation et de veille du SEO pour le site portfolio d'une photographe. 
+Ce projet a été réalisé dans le cadre de ma formation de Développeuse Web sur OpenClassrooms et vise à améliorer les performances, la visibilité et l'accessibilité du site web.
 
 ## Aperçu
 
-L'objectif de ce projet fictif était d'étudier la demande d'un client de développer une application web permettant aux restaurateurs de créer facilement leurs menus. Le projet comprenait les étapes suivantes :
+L'objectif de ce projet fictif était d'améliorer le site portfolio d'une photographe en effectuant les actions suivantes :
 
-- Veille technologique pour rester informé des dernières tendances et technologies en développement web pertinentes au projet.
-- Définition des spécifications techniques en fonction de l'aspect visuel du site et des fonctionnalités requises.
-- Rédaction d'un rapport et création d'une présentation visuelle pour présenter les spécifications au client.
-- Utilisation d'un tableau Kanban pour organiser la gestion de projet suivant les méthodologies agiles.
+- Correction des bugs et des problèmes de fonctionnement du site.
+- Optimisation des scores de l'audit Lighthouse en travaillant sur la performance, l'accessibilité, les bonnes pratiques et le référencement SEO.
+- Mise en place du référencement local en utilisant Schema.org pour améliorer la visibilité du site dans les résultats de recherche locaux.
+- Ajout des métadonnées pour les réseaux sociaux afin d'améliorer le partage et la présentation du site sur les plateformes sociales.
+- Modification des éléments liés à l'accessibilité du site pour garantir une expérience inclusive.
+- Rédaction d'un rapport d'intervention présentant toutes les actions effectuées et leur impact.
 
-## Présentations : 
+## Actions Réalisées
 
-#### Veille Technologique
+Le projet a impliqué plusieurs étapes importantes :
 
-Dans le cadre de ce projet, une veille technologique a été effectuée afin d'aiguiller le choix des spécifications techniques. Le lien ci-dessous méne à une présentation de cette veille. 
+- **Débogage et Correction des Bugs :** Tous les problèmes et bugs identifiés sur le site ont été corrigés pour garantir un fonctionnement fluide.
 
-[[Diapositive 1]
-](https://www.canva.com/design/DAFcWOCMaXA/7vFZpvXRPbCCYUYkJcn5Aw/view?utm_content=DAFcWOCMaXA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- **Optimisation des Scores Lighthouse :** Les scores de l'audit Lighthouse ont été améliorés en optimisant les performances, l'accessibilité, les bonnes pratiques et le SEO.
 
-#### Spécifications Techniques
+- **Référencement Local :** Le balisage Schema.org a été mis en place pour améliorer la visibilité du site dans les résultats de recherche locaux.
 
-Les spécifications techniques ont été définies en tenant compte de l'aspect visuel du site et des fonctionnalités requises. 
-Les détails complets des spécifications techniques peuvent être trouvés dans la présentation acessible avec le lien ci-dessous.
+- **Métadonnées pour les Réseaux Sociaux :** Les métadonnées appropriées ont été ajoutées pour améliorer la présentation du site lorsqu'il est partagé sur les réseaux sociaux.
 
-[[Diapositive 2]
-](https://www.canva.com/design/DAFcjUyHVHs/QBPyIoDGwXgxyOTJAHZtNw/view?utm_content=DAFcjUyHVHs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-#### Gestion de Projet avec Kanban
-
-Pour organiser la gestion de projet, un tableau Kanban a été construit, suivant les méthodologies agiles. Le tableau Kanban permet de visualiser les différentes tâches du projet, leur état d'avancement et de prioriser le travail en cours. Le lien ci-dessous permet d'acceder à la présentation de cet outils de gestion ainsi que le lien pour y accéder.
-
-[[Diapositive 3]
-](https://www.canva.com/design/DAFdLJ5Qsa0/5yIB9xO6oWCv0Kv4U1lZtA/view?utm_content=DAFdLJ5Qsa0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-#### Présentation finale
-Ci-dessous, le lien de la présentation finale présentée en soutenance dans un contexte où l'évaluateur jouait le rôle du client.
-
-[[Diapositive 4]
-](https://www.canva.com/design/DAFduoJiVHM/R3oTwqGJXoLVfTis69BARA/view?utm_content=DAFduoJiVHM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- **Améliorations d'Accessibilité :** Des modifications ont été apportées pour rendre le site plus accessible, en suivant les recommandations du rapport Wave.
+  
+- **Rédaction du Rapport d'Intervention :** Un [rapport d'intervention complet](https://drive.google.com/file/d/1EO-bERq17oXtb2rTbXEyzkRP_vaYgO5B/view?usp=drive_link) a été rédigé pour documenter toutes les actions effectuées, y compris les corrections, les optimisations et les améliorations en matière de SEO et d'accessibilité.
