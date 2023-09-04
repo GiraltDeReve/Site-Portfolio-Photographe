@@ -29,3 +29,7 @@ Le projet a impliqué plusieurs étapes importantes :
 - **Améliorations d'Accessibilité :** Des modifications ont été apportées pour rendre le site plus accessible, en suivant les recommandations du rapport Wave.
   
 - **Rédaction du Rapport d'Intervention :** Un [rapport d'intervention complet](https://drive.google.com/file/d/1EO-bERq17oXtb2rTbXEyzkRP_vaYgO5B/view?usp=drive_link) a été rédigé pour documenter toutes les actions effectuées, y compris les corrections, les optimisations et les améliorations en matière de SEO et d'accessibilité.
+
+
+
+Ce projet a été réalisé par Céline Rouaire dans le cadre de la formation de Développeur Web sur OpenClassrooms.
